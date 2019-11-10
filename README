@@ -13,6 +13,6 @@ Two libraries were used to construct the project
 It also takes in users' raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Credits
-https://www.geeksforgeeks.org/python-numpy/
-https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/
-https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/
+* https://www.geeksforgeeks.org/python-numpy/
+* https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/
+* https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/
