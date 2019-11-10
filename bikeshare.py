@@ -195,7 +195,6 @@ def user_stats(df):
     except KeyError:
       print("\nMost Recent Year:\nNo data available for this month.")
 
-
     try:
       Most_Common_Year = df['Birth Year'].value_counts().idxmax()
       print('\nMost Common Year:', Most_Common_Year)
@@ -204,7 +203,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+    
     for start in range (0, 10000, 5):
         end = 5
         show_data = input('\nWould you like to view data? Enter yes or no\n').lower()
