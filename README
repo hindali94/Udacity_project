@@ -1,0 +1,18 @@
+### Date created
+The project was completed on a date (31-novamber-2019)
+
+### Project Title
+**Bike Share Data**
+
+### Description
+Python Script to Explore US Bikeshare Data
+This Python script is written for Project of Udacity's Programming for Data Science
+and is used to explore data related to bike share systems for Chicago, New York City, and Washington.
+Two libraries were used to construct the project
+**NumPy** and **Panda**.
+It also takes in users' raw input to create an interactive experience in the terminal to present these statistics.
+
+### Credits
+https://www.geeksforgeeks.org/python-numpy/
+https://www.geeksforgeeks.org/python-pandas-dataframe-series-head-method/
+https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/
