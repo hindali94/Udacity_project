@@ -1,8 +1,10 @@
 ### Date created
 The project was completed on a date (31-novamber-2019)
+---
 
 ### Project Title
 **Bike Share Data**
+---
 
 ### Description
 Python Script to Explore US Bikeshare Data
@@ -11,6 +13,7 @@ and is used to explore data related to bike share systems for Chicago, New York 
 Two libraries were used to construct the project
 **NumPy** and **Panda**.
 It also takes in users' raw input to create an interactive experience in the terminal to present these statistics.
+---
 
 ### Credits
 * https://www.geeksforgeeks.org/python-numpy/
