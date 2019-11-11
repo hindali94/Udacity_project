@@ -204,6 +204,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
     
+    # display the 5 lines of raw data if the user want
     for start in range (0, 10000, 5):
         end = 5
         show_data = input('\nWould you like to view data? Enter yes or no\n').lower()
